@@ -1,6 +1,7 @@
 # provider_example
 
-A new Flutter project.
+Proyecto de ejemplo de patrón provider en flutter. El proyecto es el proyécto básico que se crea
+cuando se inicia un proyecto en flutter, pero adaptado al patrón provider
 
 ## Getting Started
 
